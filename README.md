@@ -1,2 +1,2 @@
 # delta-demo
-This repo is made for learning purpose
+This repo is made for learning purpose.
